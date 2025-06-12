@@ -29,7 +29,7 @@
     <section class="slide-section">
         <div class="slide-inner-div">
             <div class="text-div">
-                <h1>Reliable & express logistics solutions</h1>
+                <h1>Reliable & express logistics solutions mercy</h1>
                 <div>
                     <button class="slide-btn" title="GET STARTED">GET STARTED</button>
                 </div>
